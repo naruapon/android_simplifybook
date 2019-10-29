@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Downloadhttp</string>
+    <string name="url">http://marketing.reviva.co.th/images/263_Photo.jpg</string>
+    <string name="download_file">Download File</string>
+    <string name="todo">TODO</string>
+</resources>

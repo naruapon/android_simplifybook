@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuTab</string>
+    <string name="tab1">GALAXY Note II</string>
+    <string name="detail1">....คู่มือนำเสนอแอพที่มากับเครื่องครบทั้งโทร/แชต ดูหนัง/ฟังเพลง ท่องเน็ต และประยุกต์ใช้งานธุรกิจ Find my mobile ตามหาโทรศัพท์กรณีเครื่องหาย บันทึกและขีดเขียนได้ทุกสถานณการณ์ด้วย S
+          Note ใช้คุณสมบัติใหม่ Air View, Popup Note, Quick Command  อัพเดตล่าสุด! Android 4.1 Jelly Bean พร้อมสิ่งใหม่ใน Android 4.2 พร้อมเมนู 2 ภาษา (ไทย – อังกฤษ)</string>
+    <string name="tab2">GALAXY Tab</string>
+    <string name="detail2">....เจาะลึก! ทุกแง่มุมการใช้งาน Samsung Galaxy Tabตั้งแต่อธิบายรายละเอียดทุกพื้นฐานเกี่ยวกับ Galaxy Tab
+      และแอพที่มากับเครื่องครบทั้งโทร/แชต ดูหนัง/ฟังเพลง ท่องเน็ต ประยุกต์ใช้ Galaxy Tab ทั้งมัลติมีเดีย งานธุรกิจและโลกออนไลน์รวมทั้งสรุปการใช้งาน\n แอพเด็ดที่พลาดไม่ได้</string>
+    <string name="tab3">Android Tablet</string>
+    <string name="detail3">....เจาะลึก! ทุกเรื่องต้องรู้กับการงาน Android Tablet ทุกรุ่นตั้งแต่แนะนำรุ่นและทุกพื้นฐานเกี่ยวกับ Android Tabletครบทั้งโทร/แชต ดูหนัง/ฟังเพลง ท่องเน็ต ประยุกต์ใช้ Android Tablet ทั้งมัลติมีเดีย งานธุรกิจและโลกออนไลน์รวมทั้งสรุปการใช้งาน\nแอพเด็ดที่พลาดไม่ได้</string>
+</resources>

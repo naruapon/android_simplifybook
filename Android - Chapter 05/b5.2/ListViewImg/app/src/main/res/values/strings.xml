@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListViewImg</string>
+    <string name="note">  บันทึกและขีดเขียนได้ทุกสถานการณ์ด้วย S Note  ปรับแต่งและแก้ไขภาพได้ดังใจด้วย Photoshop Touch และ Paper Artist  บันทึกและตัดต่อโฮมวิดีโอส่วนตัวกับ Movie Studio</string>
+    <string name="galaxy_s_four">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ Samsung Galaxy_S4</string>
+    <string name="galaxy_note_two">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ Galaxy Note II</string>
+    <string name="galaxy_tab">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ  Samsung Galaxy Tab</string>
+    <string name="galaxy_tablet">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ Android Tablet</string>
+    <string name="galaxy_smartpone">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ  Android SmartPhone</string>
+    <string name="galaxy_s_three">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ Samsung Galaxy SIII</string>
+    <string name="ipad_mini">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ  iPad mini</string>
+    <string name="ipone_5s">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ iPhone5</string>
+    <string name="note_ten_dot_one">นำเสนออย่างละเอียดทุกพื้นฐานเกี่ยวกับ Note 10.1</string>
+</resources>

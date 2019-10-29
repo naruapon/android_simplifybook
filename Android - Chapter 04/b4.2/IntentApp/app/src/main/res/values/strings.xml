@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="name">Name</string>
+    <string name="nextpage">Nextpage</string>
+    <string name="page1">Page1</string>
+    <string name="prepage">Prepage</string>
+    <string name="page2">Page2</string>
+    <string name="information">information</string>
+    <string name="receice">Receice</string>
+
+</resources>

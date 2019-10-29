@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DropDown</string>
+    <string name="action_settings">Settings</string>
+    <!-- Category-->
+    <string-array name="category">
+        <item>SmartPhone Tablet</item>
+        <item>GALAXY J 7</item>
+        <item>iPhone 5s</item>
+        <item>GALAXY Note 8</item>
+        <item>GALAXY Note 10.1</item>
+        <item>Android Tablet</item>
+    </string-array>
+</resources>
